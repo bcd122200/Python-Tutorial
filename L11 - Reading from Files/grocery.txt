@@ -1,0 +1,8 @@
+Grocery List:
+chicken broth, 2
+cheese, 4
+corn, 3
+sweet potatoes, 2
+heavy cream, 1
+ham, 1
+cookie dough, 5

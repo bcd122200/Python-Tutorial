@@ -1,0 +1,10 @@
+name: Elizabeth LoVerde
+Date of Birth: 01/11/2001
+Major: Mechanical Engineering
+Minor: Business Administration
+---------Course Work---------
+Thermo-Fluids: 95
+English: 82
+Biofluids: 91
+Anatomy: 98
+Lab: 100
