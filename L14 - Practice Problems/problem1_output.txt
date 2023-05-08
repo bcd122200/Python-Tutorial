@@ -1,0 +1,109 @@
+ditrust
+	NO MATCH:
+	---> ditrust
+catroon
+	SWAP:
+	---> cartoon
+	REPLACE:
+	---> patroon
+martial
+	SWAP:
+	---> marital
+fridges
+	DROP:
+	---> ridges
+	---> fidges
+	---> fridge
+throned
+	SWAP:
+	---> thorned
+frozen
+	FOUND:
+	---> frozen
+blizzard
+	NO MATCH:
+	---> blizzard
+bailers
+	REPLACE:
+	---> bailors
+	---> baiters
+	---> hailers
+ampuls
+	DROP:
+	---> ampul
+fool
+	REPLACE:
+	---> pool
+	---> food
+generously
+	NO MATCH:
+	---> generously
+ramosely
+	REPLACE:
+	---> rimosely
+imprudences
+	DROP:
+	---> imprudence
+	---> impudences
+thiotepa
+	FOUND:
+	---> thiotepa
+lair
+	SWAP:
+	---> liar
+dissatisfaktion
+	REPLACE:
+	---> dissatisfaction
+aphthae
+	NO MATCH:
+	---> aphthae
+blunging
+	FOUND:
+	---> blunging
+casas
+	DROP:
+	---> casa
+blungign
+	SWAP:
+	---> blunging
+culverts
+	NO MATCH:
+	---> culverts
+butterscottches
+	DROP:
+	---> butterscotches
+curries
+	NO MATCH:
+	---> curries
+pymurgies
+	REPLACE:
+	---> zymurgies
+aland
+	REPLACE:
+	---> alane
+	---> alang
+	---> alans
+babbled
+	REPLACE:
+	---> babbler
+	---> gabbled
+cruises
+	DROP:
+	---> cruses
+	---> cruise
+	---> crises
+seta
+	DROP:
+	---> eta
+	SWAP:
+	---> seat
+	REPLACE:
+	---> sera
+melodise
+	SWAP:
+	---> melodies
+crepe
+	SWAP:
+	---> creep
+	REPLACE:
+	---> creme
